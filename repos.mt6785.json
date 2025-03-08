@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "BoltKernel-V5-TEST-A13",
-      "repo": "https://github.com/Chitransh193/Bolt-Kernel-TEST",
-      "branch": "main",
-      "device": "RM6785",
-      "defconfig": "RM6785_defconfig"
+      "name": "TestA11Kranul",
+      "repo": "https://github.com/Konjikin/kernel_realme_wasabi",
+      "branch": "q",
+      "device": "RMX2001",
+      "defconfig": "RMX2001_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
