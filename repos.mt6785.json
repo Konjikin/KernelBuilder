@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "TestA11Kranul",
       "repo": "https://github.com/Konjikin/kernel_realme_wasabi",
-      "branch": "q",
+      "branch": "Q",
       "device": "RMX2001",
       "defconfig": "RMX2001_defconfig"
     },
